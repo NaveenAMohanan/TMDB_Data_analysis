@@ -6,6 +6,6 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
-- To download conda environment [click here](https://github.com/NaveenAMohanan/TMDB_Data_analysis/blob/master/dand-env-win.yaml)
+- To download conda environment for windows [click here](https://github.com/NaveenAMohanan/TMDB_Data_analysis/blob/master/dand-env-win.yaml)
 
 To view the project either click on "TMDB_Data_analysis.ipynb" or [here](https://github.com/NaveenAMohanan/TMDB_Data_analysis/blob/master/TMDB_data_analysis.ipynb)
