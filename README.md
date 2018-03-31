@@ -1,0 +1,2 @@
+# TMDB_Data_analysis
+A project consisting of 5 stages of data analysis(Question phase, Data Wrangling, Exploration, Conclusion &amp; Prediction) on Tmdb movie dataset to find "How certain criteria effects the commercial success of the films, how some factor like the budget, popularity &amp; company can influence the total revenue, What can we predict about the commercial success before it is released based on these factors.
